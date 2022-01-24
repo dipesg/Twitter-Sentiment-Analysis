@@ -9,4 +9,5 @@
 
 # Data Preprocessing and Cleaning
 - First we clean a null value by dropping it since there is large amount of data.
-![cleaning1](images/t1.jpg) ![cleaning2](images/t2.jpg)
+![cleaning1](images/t1.jpg)
+![cleaning2](images/t2.jpg)
