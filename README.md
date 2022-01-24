@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-![Omicron](images/omi.png)
+![Omicron](images/om.png)
