@@ -1,3 +1,2 @@
 # Twitter-Sentiment-Analysis
- print("Hello World")
-    P
+![Omicron](images/omi.png)
