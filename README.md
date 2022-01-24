@@ -6,3 +6,7 @@
 
 # Dataset
 - Data are collected from [Kaggle](https://www.kaggle.com/gpreda/omicron-rising), which is a **tweet** that people have made after **WHO** **tweet** the post.
+
+# Data Preprocessing and Cleaning
+- First we clean a null value by dropping it since there is large amount of data.
+![cleaning1](images/t1.jpg) ![cleaning2](images/t2.jpg)
